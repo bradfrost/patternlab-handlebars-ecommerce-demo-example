@@ -1,0 +1,1012 @@
+{
+  "version": 1,
+  "timestamp": 1542379697052,
+  "graph": {
+    "options": {
+      "directed": true,
+      "multigraph": false,
+      "compound": false
+    },
+    "nodes": [
+      {
+        "v": "00-atoms/01-global/00-brand-colors.hbs",
+        "value": {
+          "compileState": "clean"
+        }
+      },
+      {
+        "v": "00-atoms/01-global/00-neutral-colors.hbs",
+        "value": {
+          "compileState": "clean"
+        }
+      },
+      {
+        "v": "00-atoms/01-global/00-utility-colors.hbs",
+        "value": {
+          "compileState": "clean"
+        }
+      },
+      {
+        "v": "00-atoms/01-global/02-font-families.hbs",
+        "value": {
+          "compileState": "clean"
+        }
+      },
+      {
+        "v": "00-atoms/01-global/02-font-sizes.hbs",
+        "value": {
+          "compileState": "clean"
+        }
+      },
+      {
+        "v": "00-atoms/01-global/_colors.hbs",
+        "value": {
+          "compileState": "clean",
+          "lineagePath": "../../patterns/00-atoms-01-global-00-utility-colors/00-atoms-01-global-00-utility-colors.rendered.html",
+          "lineagePattern": "atoms-utility-colors"
+        }
+      },
+      {
+        "v": "00-atoms/02-text/00-headings.hbs",
+        "value": {
+          "compileState": "clean"
+        }
+      },
+      {
+        "v": "00-atoms/02-text/01-paragraph.hbs",
+        "value": {
+          "compileState": "clean"
+        }
+      },
+      {
+        "v": "00-atoms/02-text/02-blockquote.hbs",
+        "value": {
+          "compileState": "clean"
+        }
+      },
+      {
+        "v": "00-atoms/02-text/03-inline-elements.hbs",
+        "value": {
+          "compileState": "clean"
+        }
+      },
+      {
+        "v": "00-atoms/02-text/06-hr.hbs",
+        "value": {
+          "compileState": "clean"
+        }
+      },
+      {
+        "v": "00-atoms/forms/00-text-input.hbs",
+        "value": {
+          "compileState": "clean"
+        }
+      },
+      {
+        "v": "00-atoms/forms/00-textarea.hbs",
+        "value": {
+          "compileState": "clean"
+        }
+      },
+      {
+        "v": "00-atoms/forms/01-select.hbs",
+        "value": {
+          "compileState": "clean",
+          "lineagePath": "../../patterns/01-molecules-forms-select-field/01-molecules-forms-select-field.rendered.html",
+          "lineagePattern": "molecules-select-field"
+        }
+      },
+      {
+        "v": "00-atoms/forms/02-checkbox.hbs",
+        "value": {
+          "compileState": "clean"
+        }
+      },
+      {
+        "v": "00-atoms/forms/03-radio-button.hbs",
+        "value": {
+          "compileState": "clean"
+        }
+      },
+      {
+        "v": "00-atoms/images/icon.hbs",
+        "value": {
+          "compileState": "clean"
+        }
+      },
+      {
+        "v": "00-atoms/images/icons.hbs",
+        "value": {
+          "compileState": "clean"
+        }
+      },
+      {
+        "v": "00-atoms/images/landscape.hbs",
+        "value": {
+          "compileState": "clean"
+        }
+      },
+      {
+        "v": "00-atoms/images/stacked-block-image.hbs",
+        "value": {
+          "compileState": "clean",
+          "lineagePath": "../../patterns/01-molecules-blocks-stacked-block/01-molecules-blocks-stacked-block.rendered.html",
+          "lineagePattern": "molecules-stacked-block"
+        }
+      },
+      {
+        "v": "01-molecules/00-global/00-logo.hbs",
+        "value": {
+          "compileState": "clean",
+          "lineagePath": "../../patterns/02-organisms-00-global-01-footer/02-organisms-00-global-01-footer.rendered.html",
+          "lineagePattern": "organisms-footer"
+        }
+      },
+      {
+        "v": "01-molecules/blocks/hero.hbs",
+        "value": {
+          "compileState": "clean",
+          "lineagePath": "../../patterns/03-templates-homepage/03-templates-homepage.rendered.html",
+          "lineagePattern": "templates-homepage"
+        }
+      },
+      {
+        "v": "01-molecules/blocks/promo-block.hbs",
+        "value": {
+          "compileState": "clean",
+          "lineagePath": "../../patterns/03-templates-homepage/03-templates-homepage.rendered.html",
+          "lineagePattern": "templates-homepage"
+        }
+      },
+      {
+        "v": "01-molecules/blocks/stacked-block.hbs",
+        "value": {
+          "compileState": "clean",
+          "lineagePath": "../../patterns/02-organisms-lists-stacked-block-list/02-organisms-lists-stacked-block-list.rendered.html",
+          "lineagePattern": "organisms-stacked-block-list"
+        }
+      },
+      {
+        "v": "01-molecules/blocks/stacked-block~sale.json",
+        "value": {
+          "compileState": "clean"
+        }
+      },
+      {
+        "v": "01-molecules/blocks/stripe.hbs",
+        "value": {
+          "compileState": "clean",
+          "lineagePath": "../../patterns/02-organisms-lists-stripe-list/02-organisms-lists-stripe-list.rendered.html",
+          "lineagePattern": "organisms-stripe-list"
+        }
+      },
+      {
+        "v": "01-molecules/buttons/button.hbs",
+        "value": {
+          "compileState": "clean",
+          "lineagePath": "../../patterns/03-templates-cart/03-templates-cart.rendered.html",
+          "lineagePattern": "templates-cart"
+        }
+      },
+      {
+        "v": "01-molecules/buttons/button~bare.json",
+        "value": {
+          "compileState": "clean"
+        }
+      },
+      {
+        "v": "01-molecules/forms/checkbox-field.hbs",
+        "value": {
+          "compileState": "clean",
+          "lineagePath": "../../patterns/02-organisms-forms-form/02-organisms-forms-form.rendered.html",
+          "lineagePattern": "organisms-form"
+        }
+      },
+      {
+        "v": "01-molecules/forms/inline-checkbox.hbs",
+        "value": {
+          "compileState": "clean",
+          "lineagePath": "../../patterns/02-organisms-forms-form/02-organisms-forms-form.rendered.html",
+          "lineagePattern": "organisms-form"
+        }
+      },
+      {
+        "v": "01-molecules/forms/radio-field.hbs",
+        "value": {
+          "compileState": "clean",
+          "lineagePath": "../../patterns/02-organisms-forms-form/02-organisms-forms-form.rendered.html",
+          "lineagePattern": "organisms-form"
+        }
+      },
+      {
+        "v": "01-molecules/forms/select-field.hbs",
+        "value": {
+          "compileState": "clean",
+          "lineagePath": "../../patterns/02-organisms-forms-form/02-organisms-forms-form.rendered.html",
+          "lineagePattern": "organisms-form"
+        }
+      },
+      {
+        "v": "01-molecules/forms/text-field.hbs",
+        "value": {
+          "compileState": "clean",
+          "lineagePath": "../../patterns/02-organisms-forms-form/02-organisms-forms-form.rendered.html",
+          "lineagePattern": "organisms-form"
+        }
+      },
+      {
+        "v": "01-molecules/forms/textarea-field.hbs",
+        "value": {
+          "compileState": "clean",
+          "lineagePath": "../../patterns/02-organisms-forms-form/02-organisms-forms-form.rendered.html",
+          "lineagePattern": "organisms-form"
+        }
+      },
+      {
+        "v": "01-molecules/lists/definition-list.hbs",
+        "value": {
+          "compileState": "clean",
+          "lineagePath": "../../patterns/02-organisms-lists-definition-list-list/02-organisms-lists-definition-list-list.rendered.html",
+          "lineagePattern": "organisms-definition-list-list"
+        }
+      },
+      {
+        "v": "01-molecules/navigation/footer-nav.hbs",
+        "value": {
+          "compileState": "clean",
+          "lineagePath": "../../patterns/02-organisms-00-global-01-footer/02-organisms-00-global-01-footer.rendered.html",
+          "lineagePattern": "organisms-footer"
+        }
+      },
+      {
+        "v": "01-molecules/navigation/pagination.hbs",
+        "value": {
+          "compileState": "clean",
+          "lineagePath": "../../patterns/03-templates-category/03-templates-category.rendered.html",
+          "lineagePattern": "templates-category"
+        }
+      },
+      {
+        "v": "01-molecules/navigation/primary-nav.hbs",
+        "value": {
+          "compileState": "clean",
+          "lineagePath": "../../patterns/02-organisms-00-global-00-header/02-organisms-00-global-00-header.rendered.html",
+          "lineagePattern": "organisms-header"
+        }
+      },
+      {
+        "v": "01-molecules/navigation/progress-tracker.hbs",
+        "value": {
+          "compileState": "clean",
+          "lineagePath": "../../patterns/03-templates-review/03-templates-review.rendered.html",
+          "lineagePattern": "templates-review"
+        }
+      },
+      {
+        "v": "01-molecules/text/page-header.hbs",
+        "value": {
+          "compileState": "clean",
+          "lineagePath": "../../patterns/03-templates-review/03-templates-review.rendered.html",
+          "lineagePattern": "templates-review"
+        }
+      },
+      {
+        "v": "02-organisms/00-global/00-header.hbs",
+        "value": {
+          "compileState": "clean",
+          "lineagePath": "../../patterns/03-templates-review/03-templates-review.rendered.html",
+          "lineagePattern": "templates-review"
+        }
+      },
+      {
+        "v": "02-organisms/00-global/01-footer.hbs",
+        "value": {
+          "compileState": "clean",
+          "lineagePath": "../../patterns/03-templates-review/03-templates-review.rendered.html",
+          "lineagePattern": "templates-review"
+        }
+      },
+      {
+        "v": "02-organisms/buttons/button-group.hbs",
+        "value": {
+          "compileState": "clean",
+          "lineagePath": "../../patterns/03-templates-review/03-templates-review.rendered.html",
+          "lineagePattern": "templates-review"
+        }
+      },
+      {
+        "v": "02-organisms/forms/form.hbs",
+        "value": {
+          "compileState": "clean",
+          "lineagePath": "../../patterns/03-templates-detail/03-templates-detail.rendered.html",
+          "lineagePattern": "templates-detail"
+        }
+      },
+      {
+        "v": "02-organisms/lists/definition-list-list.hbs",
+        "value": {
+          "compileState": "clean",
+          "lineagePath": "../../patterns/03-templates-review/03-templates-review.rendered.html",
+          "lineagePattern": "templates-review"
+        }
+      },
+      {
+        "v": "02-organisms/lists/definition-list-list~lined.json",
+        "value": {
+          "compileState": "clean"
+        }
+      },
+      {
+        "v": "02-organisms/lists/stacked-block-list.hbs",
+        "value": {
+          "compileState": "clean",
+          "lineagePath": "../../patterns/03-templates-category/03-templates-category.rendered.html",
+          "lineagePattern": "templates-category"
+        }
+      },
+      {
+        "v": "02-organisms/lists/stripe-list.hbs",
+        "value": {
+          "compileState": "clean",
+          "lineagePath": "../../patterns/03-templates-cart/03-templates-cart.rendered.html",
+          "lineagePattern": "templates-cart"
+        }
+      },
+      {
+        "v": "02-organisms/sections/stacked-block-section.hbs",
+        "value": {
+          "compileState": "clean",
+          "lineagePath": "../../patterns/03-templates-homepage/03-templates-homepage.rendered.html",
+          "lineagePattern": "templates-homepage"
+        }
+      },
+      {
+        "v": "02-organisms/tables/table.hbs",
+        "value": {
+          "compileState": "clean"
+        }
+      },
+      {
+        "v": "02-organisms/text/text-passage.hbs",
+        "value": {
+          "compileState": "clean",
+          "lineagePath": "../../patterns/03-templates-review/03-templates-review.rendered.html",
+          "lineagePattern": "templates-review"
+        }
+      },
+      {
+        "v": "03-templates/cart.hbs",
+        "value": {
+          "compileState": "clean",
+          "lineagePath": "../../patterns/04-pages-03-cart/04-pages-03-cart.rendered.html",
+          "lineagePattern": "pages-cart"
+        }
+      },
+      {
+        "v": "03-templates/category.hbs",
+        "value": {
+          "compileState": "clean",
+          "lineagePath": "../../patterns/04-pages-01-category/04-pages-01-category.rendered.html",
+          "lineagePattern": "pages-category"
+        }
+      },
+      {
+        "v": "03-templates/checkout.hbs",
+        "value": {
+          "compileState": "clean",
+          "lineagePath": "../../patterns/04-pages-04-checkout/04-pages-04-checkout.rendered.html",
+          "lineagePattern": "pages-checkout"
+        }
+      },
+      {
+        "v": "03-templates/confirmation.hbs",
+        "value": {
+          "compileState": "clean",
+          "lineagePath": "../../patterns/04-pages-06-confirmation/04-pages-06-confirmation.rendered.html",
+          "lineagePattern": "pages-confirmation"
+        }
+      },
+      {
+        "v": "03-templates/detail.hbs",
+        "value": {
+          "compileState": "clean",
+          "lineagePath": "../../patterns/04-pages-02-detail/04-pages-02-detail.rendered.html",
+          "lineagePattern": "pages-detail"
+        }
+      },
+      {
+        "v": "03-templates/homepage.hbs",
+        "value": {
+          "compileState": "clean",
+          "lineagePath": "../../patterns/04-pages-00-homepage/04-pages-00-homepage.rendered.html",
+          "lineagePattern": "pages-homepage"
+        }
+      },
+      {
+        "v": "03-templates/page.hbs",
+        "value": {
+          "compileState": "clean",
+          "lineagePath": "../../patterns/04-pages-page/04-pages-page.rendered.html",
+          "lineagePattern": "pages-page"
+        }
+      },
+      {
+        "v": "03-templates/review.hbs",
+        "value": {
+          "compileState": "clean",
+          "lineagePath": "../../patterns/04-pages-05-review/04-pages-05-review.rendered.html",
+          "lineagePattern": "pages-review"
+        }
+      },
+      {
+        "v": "04-pages/00-homepage.hbs",
+        "value": {
+          "compileState": "clean"
+        }
+      },
+      {
+        "v": "04-pages/01-category.hbs",
+        "value": {
+          "compileState": "clean"
+        }
+      },
+      {
+        "v": "04-pages/01-category~holiday-guide.json",
+        "value": {
+          "compileState": "clean"
+        }
+      },
+      {
+        "v": "04-pages/01-category~kids.json",
+        "value": {
+          "compileState": "clean"
+        }
+      },
+      {
+        "v": "04-pages/01-category~men.json",
+        "value": {
+          "compileState": "clean"
+        }
+      },
+      {
+        "v": "04-pages/01-category~on-sale.json",
+        "value": {
+          "compileState": "clean"
+        }
+      },
+      {
+        "v": "04-pages/01-category~page-two.json",
+        "value": {
+          "compileState": "clean"
+        }
+      },
+      {
+        "v": "04-pages/02-detail.hbs",
+        "value": {
+          "compileState": "clean"
+        }
+      },
+      {
+        "v": "04-pages/03-cart.hbs",
+        "value": {
+          "compileState": "clean"
+        }
+      },
+      {
+        "v": "04-pages/04-checkout.hbs",
+        "value": {
+          "compileState": "clean"
+        }
+      },
+      {
+        "v": "04-pages/04-checkout~billing-same-shipping.json",
+        "value": {
+          "compileState": "clean"
+        }
+      },
+      {
+        "v": "04-pages/04-checkout~billing.json",
+        "value": {
+          "compileState": "clean"
+        }
+      },
+      {
+        "v": "04-pages/05-review.hbs",
+        "value": {
+          "compileState": "clean"
+        }
+      },
+      {
+        "v": "04-pages/06-confirmation.hbs",
+        "value": {
+          "compileState": "clean"
+        }
+      },
+      {
+        "v": "04-pages/page.hbs",
+        "value": {
+          "compileState": "clean"
+        }
+      },
+      {
+        "v": "/Users/frostbd/Dropbox/websites/patternlab/pattern-lab-ecommerce-handlebars/source/_meta/_00-head.mustache",
+        "value": {
+          "compileState": null
+        }
+      },
+      {
+        "v": "/Users/frostbd/Dropbox/websites/patternlab/pattern-lab-ecommerce-handlebars/source/_meta/_01-foot.mustache",
+        "value": {
+          "compileState": null
+        }
+      }
+    ],
+    "edges": [
+      {
+        "v": "01-molecules/blocks/stacked-block~sale.json",
+        "w": "01-molecules/blocks/stacked-block.hbs",
+        "value": {}
+      },
+      {
+        "v": "01-molecules/blocks/stacked-block~sale.json",
+        "w": "00-atoms/images/stacked-block-image.hbs",
+        "value": {}
+      },
+      {
+        "v": "01-molecules/buttons/button~bare.json",
+        "w": "01-molecules/buttons/button.hbs",
+        "value": {}
+      },
+      {
+        "v": "02-organisms/lists/definition-list-list~lined.json",
+        "w": "02-organisms/lists/definition-list-list.hbs",
+        "value": {}
+      },
+      {
+        "v": "02-organisms/lists/definition-list-list~lined.json",
+        "w": "01-molecules/lists/definition-list.hbs",
+        "value": {}
+      },
+      {
+        "v": "04-pages/01-category~holiday-guide.json",
+        "w": "04-pages/01-category.hbs",
+        "value": {}
+      },
+      {
+        "v": "04-pages/01-category~holiday-guide.json",
+        "w": "03-templates/category.hbs",
+        "value": {}
+      },
+      {
+        "v": "04-pages/01-category~kids.json",
+        "w": "04-pages/01-category.hbs",
+        "value": {}
+      },
+      {
+        "v": "04-pages/01-category~kids.json",
+        "w": "03-templates/category.hbs",
+        "value": {}
+      },
+      {
+        "v": "04-pages/01-category~men.json",
+        "w": "04-pages/01-category.hbs",
+        "value": {}
+      },
+      {
+        "v": "04-pages/01-category~men.json",
+        "w": "03-templates/category.hbs",
+        "value": {}
+      },
+      {
+        "v": "04-pages/01-category~on-sale.json",
+        "w": "04-pages/01-category.hbs",
+        "value": {}
+      },
+      {
+        "v": "04-pages/01-category~on-sale.json",
+        "w": "03-templates/category.hbs",
+        "value": {}
+      },
+      {
+        "v": "04-pages/01-category~page-two.json",
+        "w": "04-pages/01-category.hbs",
+        "value": {}
+      },
+      {
+        "v": "04-pages/01-category~page-two.json",
+        "w": "03-templates/category.hbs",
+        "value": {}
+      },
+      {
+        "v": "04-pages/04-checkout~billing-same-shipping.json",
+        "w": "04-pages/04-checkout.hbs",
+        "value": {}
+      },
+      {
+        "v": "04-pages/04-checkout~billing-same-shipping.json",
+        "w": "03-templates/checkout.hbs",
+        "value": {}
+      },
+      {
+        "v": "04-pages/04-checkout~billing.json",
+        "w": "04-pages/04-checkout.hbs",
+        "value": {}
+      },
+      {
+        "v": "04-pages/04-checkout~billing.json",
+        "w": "03-templates/checkout.hbs",
+        "value": {}
+      },
+      {
+        "v": "00-atoms/01-global/00-brand-colors.hbs",
+        "w": "00-atoms/01-global/_colors.hbs",
+        "value": {}
+      },
+      {
+        "v": "00-atoms/01-global/00-neutral-colors.hbs",
+        "w": "00-atoms/01-global/_colors.hbs",
+        "value": {}
+      },
+      {
+        "v": "00-atoms/01-global/00-utility-colors.hbs",
+        "w": "00-atoms/01-global/_colors.hbs",
+        "value": {}
+      },
+      {
+        "v": "01-molecules/blocks/stacked-block.hbs",
+        "w": "00-atoms/images/stacked-block-image.hbs",
+        "value": {}
+      },
+      {
+        "v": "01-molecules/blocks/stripe.hbs",
+        "w": "01-molecules/forms/text-field.hbs",
+        "value": {}
+      },
+      {
+        "v": "01-molecules/forms/select-field.hbs",
+        "w": "00-atoms/forms/01-select.hbs",
+        "value": {}
+      },
+      {
+        "v": "02-organisms/00-global/00-header.hbs",
+        "w": "01-molecules/00-global/00-logo.hbs",
+        "value": {}
+      },
+      {
+        "v": "02-organisms/00-global/00-header.hbs",
+        "w": "01-molecules/navigation/primary-nav.hbs",
+        "value": {}
+      },
+      {
+        "v": "02-organisms/00-global/01-footer.hbs",
+        "w": "01-molecules/00-global/00-logo.hbs",
+        "value": {}
+      },
+      {
+        "v": "02-organisms/00-global/01-footer.hbs",
+        "w": "01-molecules/navigation/footer-nav.hbs",
+        "value": {}
+      },
+      {
+        "v": "02-organisms/buttons/button-group.hbs",
+        "w": "01-molecules/buttons/button.hbs",
+        "value": {}
+      },
+      {
+        "v": "02-organisms/forms/form.hbs",
+        "w": "01-molecules/forms/text-field.hbs",
+        "value": {}
+      },
+      {
+        "v": "02-organisms/forms/form.hbs",
+        "w": "01-molecules/forms/select-field.hbs",
+        "value": {}
+      },
+      {
+        "v": "02-organisms/forms/form.hbs",
+        "w": "01-molecules/forms/textarea-field.hbs",
+        "value": {}
+      },
+      {
+        "v": "02-organisms/forms/form.hbs",
+        "w": "01-molecules/forms/radio-field.hbs",
+        "value": {}
+      },
+      {
+        "v": "02-organisms/forms/form.hbs",
+        "w": "01-molecules/forms/checkbox-field.hbs",
+        "value": {}
+      },
+      {
+        "v": "02-organisms/forms/form.hbs",
+        "w": "01-molecules/forms/inline-checkbox.hbs",
+        "value": {}
+      },
+      {
+        "v": "02-organisms/forms/form.hbs",
+        "w": "02-organisms/buttons/button-group.hbs",
+        "value": {}
+      },
+      {
+        "v": "02-organisms/lists/definition-list-list.hbs",
+        "w": "01-molecules/lists/definition-list.hbs",
+        "value": {}
+      },
+      {
+        "v": "02-organisms/lists/stacked-block-list.hbs",
+        "w": "01-molecules/blocks/stacked-block.hbs",
+        "value": {}
+      },
+      {
+        "v": "02-organisms/lists/stripe-list.hbs",
+        "w": "01-molecules/blocks/stripe.hbs",
+        "value": {}
+      },
+      {
+        "v": "02-organisms/sections/stacked-block-section.hbs",
+        "w": "02-organisms/lists/stacked-block-list.hbs",
+        "value": {}
+      },
+      {
+        "v": "03-templates/cart.hbs",
+        "w": "02-organisms/00-global/00-header.hbs",
+        "value": {}
+      },
+      {
+        "v": "03-templates/cart.hbs",
+        "w": "01-molecules/text/page-header.hbs",
+        "value": {}
+      },
+      {
+        "v": "03-templates/cart.hbs",
+        "w": "02-organisms/lists/stripe-list.hbs",
+        "value": {}
+      },
+      {
+        "v": "03-templates/cart.hbs",
+        "w": "01-molecules/buttons/button.hbs",
+        "value": {}
+      },
+      {
+        "v": "03-templates/cart.hbs",
+        "w": "02-organisms/00-global/01-footer.hbs",
+        "value": {}
+      },
+      {
+        "v": "03-templates/category.hbs",
+        "w": "02-organisms/00-global/00-header.hbs",
+        "value": {}
+      },
+      {
+        "v": "03-templates/category.hbs",
+        "w": "01-molecules/text/page-header.hbs",
+        "value": {}
+      },
+      {
+        "v": "03-templates/category.hbs",
+        "w": "01-molecules/blocks/hero.hbs",
+        "value": {}
+      },
+      {
+        "v": "03-templates/category.hbs",
+        "w": "02-organisms/lists/stacked-block-list.hbs",
+        "value": {}
+      },
+      {
+        "v": "03-templates/category.hbs",
+        "w": "01-molecules/navigation/pagination.hbs",
+        "value": {}
+      },
+      {
+        "v": "03-templates/category.hbs",
+        "w": "02-organisms/00-global/01-footer.hbs",
+        "value": {}
+      },
+      {
+        "v": "03-templates/checkout.hbs",
+        "w": "02-organisms/00-global/00-header.hbs",
+        "value": {}
+      },
+      {
+        "v": "03-templates/checkout.hbs",
+        "w": "01-molecules/navigation/progress-tracker.hbs",
+        "value": {}
+      },
+      {
+        "v": "03-templates/checkout.hbs",
+        "w": "01-molecules/text/page-header.hbs",
+        "value": {}
+      },
+      {
+        "v": "03-templates/checkout.hbs",
+        "w": "02-organisms/lists/definition-list-list.hbs",
+        "value": {}
+      },
+      {
+        "v": "03-templates/checkout.hbs",
+        "w": "02-organisms/forms/form.hbs",
+        "value": {}
+      },
+      {
+        "v": "03-templates/checkout.hbs",
+        "w": "02-organisms/00-global/01-footer.hbs",
+        "value": {}
+      },
+      {
+        "v": "03-templates/confirmation.hbs",
+        "w": "02-organisms/00-global/00-header.hbs",
+        "value": {}
+      },
+      {
+        "v": "03-templates/confirmation.hbs",
+        "w": "01-molecules/navigation/progress-tracker.hbs",
+        "value": {}
+      },
+      {
+        "v": "03-templates/confirmation.hbs",
+        "w": "01-molecules/text/page-header.hbs",
+        "value": {}
+      },
+      {
+        "v": "03-templates/confirmation.hbs",
+        "w": "02-organisms/text/text-passage.hbs",
+        "value": {}
+      },
+      {
+        "v": "03-templates/confirmation.hbs",
+        "w": "02-organisms/00-global/01-footer.hbs",
+        "value": {}
+      },
+      {
+        "v": "03-templates/detail.hbs",
+        "w": "02-organisms/00-global/00-header.hbs",
+        "value": {}
+      },
+      {
+        "v": "03-templates/detail.hbs",
+        "w": "01-molecules/text/page-header.hbs",
+        "value": {}
+      },
+      {
+        "v": "03-templates/detail.hbs",
+        "w": "02-organisms/text/text-passage.hbs",
+        "value": {}
+      },
+      {
+        "v": "03-templates/detail.hbs",
+        "w": "02-organisms/forms/form.hbs",
+        "value": {}
+      },
+      {
+        "v": "03-templates/detail.hbs",
+        "w": "02-organisms/sections/stacked-block-section.hbs",
+        "value": {}
+      },
+      {
+        "v": "03-templates/detail.hbs",
+        "w": "02-organisms/00-global/01-footer.hbs",
+        "value": {}
+      },
+      {
+        "v": "03-templates/homepage.hbs",
+        "w": "02-organisms/00-global/00-header.hbs",
+        "value": {}
+      },
+      {
+        "v": "03-templates/homepage.hbs",
+        "w": "01-molecules/blocks/hero.hbs",
+        "value": {}
+      },
+      {
+        "v": "03-templates/homepage.hbs",
+        "w": "01-molecules/blocks/promo-block.hbs",
+        "value": {}
+      },
+      {
+        "v": "03-templates/homepage.hbs",
+        "w": "02-organisms/sections/stacked-block-section.hbs",
+        "value": {}
+      },
+      {
+        "v": "03-templates/homepage.hbs",
+        "w": "02-organisms/00-global/01-footer.hbs",
+        "value": {}
+      },
+      {
+        "v": "03-templates/page.hbs",
+        "w": "02-organisms/00-global/00-header.hbs",
+        "value": {}
+      },
+      {
+        "v": "03-templates/page.hbs",
+        "w": "01-molecules/text/page-header.hbs",
+        "value": {}
+      },
+      {
+        "v": "03-templates/page.hbs",
+        "w": "02-organisms/text/text-passage.hbs",
+        "value": {}
+      },
+      {
+        "v": "03-templates/page.hbs",
+        "w": "02-organisms/00-global/01-footer.hbs",
+        "value": {}
+      },
+      {
+        "v": "03-templates/review.hbs",
+        "w": "02-organisms/00-global/00-header.hbs",
+        "value": {}
+      },
+      {
+        "v": "03-templates/review.hbs",
+        "w": "01-molecules/navigation/progress-tracker.hbs",
+        "value": {}
+      },
+      {
+        "v": "03-templates/review.hbs",
+        "w": "01-molecules/text/page-header.hbs",
+        "value": {}
+      },
+      {
+        "v": "03-templates/review.hbs",
+        "w": "02-organisms/lists/definition-list-list.hbs",
+        "value": {}
+      },
+      {
+        "v": "03-templates/review.hbs",
+        "w": "02-organisms/text/text-passage.hbs",
+        "value": {}
+      },
+      {
+        "v": "03-templates/review.hbs",
+        "w": "02-organisms/buttons/button-group.hbs",
+        "value": {}
+      },
+      {
+        "v": "03-templates/review.hbs",
+        "w": "02-organisms/00-global/01-footer.hbs",
+        "value": {}
+      },
+      {
+        "v": "04-pages/00-homepage.hbs",
+        "w": "03-templates/homepage.hbs",
+        "value": {}
+      },
+      {
+        "v": "04-pages/01-category.hbs",
+        "w": "03-templates/category.hbs",
+        "value": {}
+      },
+      {
+        "v": "04-pages/02-detail.hbs",
+        "w": "03-templates/detail.hbs",
+        "value": {}
+      },
+      {
+        "v": "04-pages/03-cart.hbs",
+        "w": "03-templates/cart.hbs",
+        "value": {}
+      },
+      {
+        "v": "04-pages/04-checkout.hbs",
+        "w": "03-templates/checkout.hbs",
+        "value": {}
+      },
+      {
+        "v": "04-pages/05-review.hbs",
+        "w": "03-templates/review.hbs",
+        "value": {}
+      },
+      {
+        "v": "04-pages/06-confirmation.hbs",
+        "w": "03-templates/confirmation.hbs",
+        "value": {}
+      },
+      {
+        "v": "04-pages/page.hbs",
+        "w": "03-templates/page.hbs",
+        "value": {}
+      }
+    ]
+  }
+}
